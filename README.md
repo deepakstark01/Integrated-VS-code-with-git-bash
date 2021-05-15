@@ -15,3 +15,5 @@ Let's See How to integrate git bash with vs code
  
 Now you will able to use git bash terminal in vs code 
 
+<img width="818" alt="final" src="https://user-images.githubusercontent.com/60574055/118361938-069e3a00-b5ab-11eb-88d2-43e4f8555d1f.PNG">
+
