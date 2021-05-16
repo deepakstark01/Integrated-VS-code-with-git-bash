@@ -9,10 +9,10 @@ Let's See How to integrate git bash with vs code
 
 > then in last you have to paste like these 
 
-<img width="907" alt="Capture2" src="https://user-images.githubusercontent.com/60574055/118361754-67794280-b5aa-11eb-8eac-16d0839d4aa1.PNG">
-> ,
-    "terminal.external.windowsExec": "\"C:\\Program Files\\Git\\bin\\bash.exe\"",
- 
+<img width="955" alt="update" src="https://user-images.githubusercontent.com/60574055/118385547-60dfdf00-b62d-11eb-9ea0-b7743c2688c6.PNG">
+> 
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe" 
+
 Now you will able to use git bash terminal in vs code 
 
 <img width="818" alt="final" src="https://user-images.githubusercontent.com/60574055/118361938-069e3a00-b5ab-11eb-88d2-43e4f8555d1f.PNG">
